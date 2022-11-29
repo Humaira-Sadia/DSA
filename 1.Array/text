@@ -1,0 +1,27 @@
+Enter the value of rows: 2
+Enter the value of columns: 2
+Enter the elements in the array A :
+2 1 9 8
+2       1
+9       8
+1. Transpose.
+2. Addition.
+3. Substraction.
+4. Multiplication.
+5. Display.
+Enter your choice: 2
+Enter the value of rows: 2
+Enter the value of columns: 2
+Enter the elements in the array B:
+8 9 4 6
+***Array B***
+8       9
+4       6
+
+Matrix after addition.
+10      10
+13      14
+
+--------------------------------
+Process exited after 19.01 seconds with return value 0
+Press any key to continue . . .
